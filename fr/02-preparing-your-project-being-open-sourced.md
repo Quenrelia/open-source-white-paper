@@ -1,6 +1,6 @@
 # Preparing your project being open sourced
 
-Dans un [article précédent](https://oss.zenika.com/white-paper/getting-started), nous vous avons aidé à soumettre votre première contribution. Vous voulez maintenant lancer votre propre projet open source mais vous ne savez pas quoi faire avant de laisser tout le monde voir votre code? Pas de soucis, dans cet article, nous vous donnerons tous les préalables nécessaires au lancement de votre projet.
+Dans un [article précédent](https://oss.zenika.com/white-paper/getting-started), nous vous avons aidé à soumettre votre première contribution. Vous voulez maintenant lancer votre propre projet open source mais vous ne savez pas quoi faire avant de laisser tout le monde voir votre code? Pas de soucis, Dans cet article, nous vous donnerons tous les pré-requis nécessaires au lancement de votre projet.
 
 ## Pre-requisites
 
